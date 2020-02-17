@@ -32,7 +32,5 @@ ReactDOM.render(
 ```
 
 <style>
-p {
-  margin: 0;
-}
+
 </style>
